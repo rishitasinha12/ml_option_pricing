@@ -1,0 +1,11 @@
+yfinance
+pandas
+numpy
+matplotlib
+scipy
+xgboost
+scikit-learn
+optuna
+textblob
+streamlit
+requests
